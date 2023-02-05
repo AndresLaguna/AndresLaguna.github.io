@@ -1,4 +1,4 @@
-# Weather searcher
+# Buscar-Clima
 Se realiza la práctica de un buscador del clima, usando el API de "OpenWeather".
 
 **codigo realizado en HTML**
